@@ -10,6 +10,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=coderaction.coderaction)
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include AngularJs, Jamstack  and ReactNative. 
+I'm responsible for leading a development team as a technical team lead. I am a proficient software developer with more than 10++ years of experience producing code to a consistently high standard.I use agile project development methodologies (Scrum - Kanban) I perform effectively in teams of which I am a part. I am also good at leading, problem solving, developing new ideas and maintenance the code.
+
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include AngularJs, Jamstack and ReactNative.
 
 
