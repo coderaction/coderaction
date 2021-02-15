@@ -1,6 +1,3 @@
-[![](https://github.com/coderaction/imagesFolder/blob/master/images/cadir.jpg)]()
-
-
 ### Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/ParseEror">
@@ -11,6 +8,10 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=coderaction.coderaction)
+
+[![](https://github.com/coderaction/imagesFolder/blob/master/images/cadir.jpg)]()
+
+
 
 I'm responsible for leading a development team as a technical team lead. I am a proficient software developer with more than 10++ years of experience producing code to a consistently high standard.I use agile project development methodologies (Scrum - Kanban) I perform effectively in teams of which I am a part. I am also good at leading, problem solving, developing new ideas and maintenance the code.
 
