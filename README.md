@@ -14,4 +14,8 @@ I'm responsible for leading a development team as a technical team lead. I am a 
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include AngularJs, Jamstack and ReactNative.
 
+[![](https://github.com/coderaction/imagesFolder/blob/master/images/camping.png)]()
+
+Travel Blog --> https://travelcoderaction.medium.com/
+
 
